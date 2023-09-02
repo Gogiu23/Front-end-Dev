@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css"/>
+	</head>
+	<h1>
+		<p>Hola</p>
+	</h1>
+	<form>
+		<select name="food" id="selector">
+			<option value="chocolate">Chocolate</option>
+			<option value="pasta">pasta</option>
+			<option value="pizza">Pizza</option>
+			<option value="Ice-cream">Ice-cream</option>
+		</select>
+	</form>
+	<form>
+		<input type="file" name="file"/>
+	</form>
+	<form>
+		<input type="email" name="email" placeholder="email">
+	</form>
+	<form>
+		<input type="number" name="age" placeholder="age"/>
+	</form>
+	<form>
+		<input type="radio" name="right" value="Right">
+		<label for="right">I'm a right person</label><br>
+		<input type="radio" name="left" value="Left">
+		<label for="left">I'm a left person</label><br>
+	</form>
+	<h4 align="center">
+		<form action="/registration" autocomplete="on" method="POST">
+			<input type="checkbox" name="dog" value="Dog"/>
+			<label for="dog">I have a dog</label><br>
+			<input type="checkbox" name="cat" value="Cat"/>
+			<label for="cat">I have a cat</label><br><br>
+			<label for="Username">Username:</label><br>
+			<input type="text" name="Username" required/><br>
+
+			<label for="Password">Password:</label><br>
+			<input type="Password"required/><br>
+			<input type="submit">
+		</form>
+	</h4>
+</html>

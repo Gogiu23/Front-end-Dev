@@ -1,0 +1,34 @@
+p {
+	color: green;
+}
+#latest {
+	background-color: purple;
+}
+
+.navigation {
+	margin: 100px;
+}
+
+p.introduction {
+	background-color: black;
+	color: White;
+	margin: 20px;
+}
+
+/* #blog h1 { */
+/*     color: blue; */
+/* } */
+/* #blog div h1 { */
+/*     color: blue; */
+/* } */
+#blog > h1 {
+	color: blue;
+}
+
+a:hover {
+	color: orange;
+}
+
+h1:hover {
+	color: purple;
+}

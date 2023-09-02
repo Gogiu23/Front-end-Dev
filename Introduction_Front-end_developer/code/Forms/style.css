@@ -1,0 +1,29 @@
+#selector{
+	color:green;
+}
+input:hover{
+	color:orange;
+}
+input.placeholder {
+	color:black;
+}
+p {
+	color:blue;
+	background-color:greenyellow;
+	color-scheme:green;
+}
+#foodie {
+	color:green;
+	background-color:red;
+}
+/* form { */
+/*     color:green; */
+/*     background-color: red; */
+/* } */
+input {
+	color:aqua;
+	background-color:antiquewhite;
+}
+h4 {
+	background-color:cadetblue;
+}
