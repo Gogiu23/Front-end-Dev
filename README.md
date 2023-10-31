@@ -3,7 +3,7 @@ The Meta course road to Front end developer
 <body>
   <ul>
 
-[Core Internet technologies](https://github.com/Gogiu23/Front-end-Dev/edit/main)
+[Core Internet technologies]([https://github.com/Gogiu23/Front-end-Dev/edit/main](https://www.notion.so/Core-Internet-technologies-8f896e366dd049298276ed80b706f381))
 
 [Getting start with HTML](https://www.notion.so/Getting-start-with-HTML-9b8d9298663b401ea42112547340a447?pvs=21)
 
